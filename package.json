@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "styled-components": "^6.1.12"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.34"
+  }
+}
